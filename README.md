@@ -26,10 +26,10 @@ VAE-MNIST/
 ├── images/                   # Folder for images (if any visualizations or examples are included)
 ├── models_mnist/             # Folder where trained models are saved
 │
-├── main.py                   # Main script to train the VAE model
+├── vae_mnist_training.ipynb  # Main script to train the VAE model
 ├── utils.py                  # Utility functions
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+├── vae_mnist_analysis_visualizations.ipynb                 # Trained model analysis and visualizations
+└── README.md                 # Project documentation
 ```
 
 ## Training
