@@ -1,0 +1,8 @@
+__pycache__/
+assets/
+.venv
+models/
+models_mnist/
+data/
+vae_training_pipeline.ipynb
+
