@@ -20,7 +20,17 @@ This project demonstrates the application of a Variational Autoencoder (VAE) to 
 The repository has the following structure:
 
 
-VAE-MNIST/ │ ├── data/ # Directory to store MNIST data ├── images/ # Folder for images (if any visualizations or examples are included) ├── models_mnist/ # Folder where trained models are saved │ ├── main.py # Main script to train the VAE model ├── utils.py # Utility functions ├── README.md # Project documentation └── requirements.txt # Python dependencies
+VAE-MNIST/
+│
+├── data/                     # Directory to store MNIST data
+├── images/                   # Folder for images (if any visualizations or examples are included)
+├── models_mnist/             # Folder where trained models are saved
+│
+├── main.py                   # Main script to train the VAE model
+├── utils.py                  # Utility functions
+├── README.md                 # Project documentation
+└── requirements.txt          # Python dependencies
+
 
 ## Training
 Loss Function
