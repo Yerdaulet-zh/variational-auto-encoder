@@ -47,8 +47,7 @@ Hyperparameters
 
 ## Results
 
-After training, you will be able to visualize the reconstructed images from the VAE model. The model's performance is evaluated based on the reconstruction loss and KL divergence.
-Sample Results:
+After training, you will be able to visualize the reconstructed images from the VAE model. The model's performance is evaluated based on the reconstruction loss.
 
 ## Licenses
 
