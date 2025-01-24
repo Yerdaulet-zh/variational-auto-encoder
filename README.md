@@ -19,7 +19,7 @@ This project demonstrates the application of a Variational Autoencoder (VAE) to 
 
 The repository has the following structure:
 
-`
+```
 VAE-MNIST/
 │
 ├── data/                     # Directory to store MNIST data
@@ -30,7 +30,7 @@ VAE-MNIST/
 ├── utils.py                  # Utility functions
 ├── README.md                 # Project documentation
 └── requirements.txt          # Python dependencies
-`
+```
 
 ## Training
 Loss Function
